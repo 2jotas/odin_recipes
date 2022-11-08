@@ -1,0 +1,30 @@
+/* style.css */
+
+#title {
+    background-color: red;
+}
+
+div{
+    color: white;
+}
+
+h1{
+    color: blue;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.alert-text {
+    color: red;
+}
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    color: white;
+    background-color: black;
+}
